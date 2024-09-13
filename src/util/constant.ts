@@ -1,2 +1,2 @@
 
-export const base_URL = "http://localhost:3001/person"
+export const base_URL = "https://server-for-person.vercel.app/person"
